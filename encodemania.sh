@@ -1,12 +1,5 @@
 #! /bin/bash -eu
 
-# Inspiration from CyberChef
-
-# $ cp encodemania.sh ~/go/bin/encmania;  source ~/.zshrc
-# Requirements
-    # nkf
-    # gnu sed
-
 function usage() {
     SCRIPT=$(basename $0)
     
